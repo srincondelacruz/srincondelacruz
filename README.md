@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%C2%B7+AI+Developer;Azure+%26+Databricks+Certified;De+los+datos+a+la+inteligencia" alt="Typing SVG" />
 
-**Azure & Databricks Certified**
-
 Profesional híbrido especializado en **Ingeniería de Datos** e **IA Generativa**.
 Construyo pipelines de datos, modelos de ML explicables y agentes de IA en la nube.
 
@@ -122,6 +120,14 @@ Previsión de demanda para restaurantes con variables de clima, estacionalidad y
 <br>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=srincondelacruz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srincondelacruz/srincondelacruz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srincondelacruz/srincondelacruz/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/srincondelacruz/srincondelacruz/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
